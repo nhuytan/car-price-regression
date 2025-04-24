@@ -39,7 +39,7 @@ cd car-price-regression
 
 ### 2. Create a Conda environment
 ```bash 
-conda create -n carreg python=3.11
+conda create -n carreg python=3.12
 conda activate carreg
 ```
 
