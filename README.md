@@ -33,7 +33,7 @@ This project uses a machine learning model to predict car prices based on featur
 ### 1. Clone or download this repo
 
 ```bash
-git clone https://github.com/your-username/car-price-regression.git
+git clone https://github.com/nhuytan/car-price-regression.git
 cd car-price-regression
 ```
 
