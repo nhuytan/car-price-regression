@@ -81,4 +81,4 @@ All dependencies are listed in requirements.txt.
 
 ## 📬 Contact
 Created by Brandon Nguyen
-nhuytan@gmailc.com
+nhuytan@gmail.com
